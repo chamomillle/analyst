@@ -81,7 +81,7 @@
 
 ---
 
-## 📬 Контакты
+##  Контакты
 
 **Автор:** Марина Сергеева  
 **GitHub:** [https://github.com/chamomillle](https://github.com/chamomillle)  
