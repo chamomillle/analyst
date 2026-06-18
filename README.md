@@ -63,6 +63,9 @@
    ```bash
 pip install pandas openpyxl sqlite3
 
+
+
+
 Откройте analit.ipynb и выполните ячейки по порядку
 
 Для дашборда откройте analitik.pbix в Power BI Desktop.
